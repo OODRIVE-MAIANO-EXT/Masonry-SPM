@@ -22,9 +22,13 @@ let package = Package(
         .target(
             name: "Masonry-SPM",
             dependencies: []),
+/*
+ Tests used to rely on Expecta (which has no SPM package either) and scripts that may or may not be necessary.
+ Leaving that task for whoever wants.
         .testTarget(
             name: "Masonry-SPMTests",
             dependencies: ["Masonry-SPM"],
             path: "Tests"),
+ */
     ]
 )
