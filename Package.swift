@@ -32,3 +32,5 @@ let package = Package(
  */
     ]
 )
+// https://joesusnick.medium.com/swift-package-manager-with-a-mixed-swift-and-objective-c-project-part-2-2-e71dad234e6
+// https://c.tenor.com/zzi419VcITUAAAAC/ohsnap.gif
